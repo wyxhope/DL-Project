@@ -5,7 +5,7 @@ import time
 from openai import OpenAI
 
 # --- 配置 ---
-API_KEY = "sk-woFm37LWUHIjGIkazE4cPA"
+API_KEY = "APIKEY"
 BASE_URL = "https://llmapi.paratera.com"
 MODEL_NAME = "DeepSeek-V3.2"
 CSV_PATH = "maestro-v3.0.0/maestro-v3.0.0.csv"
