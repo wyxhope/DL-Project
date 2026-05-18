@@ -89,4 +89,4 @@ if __name__ == "__main__":
         os.path.join(MODEL_DIR, "model_config.json"), 
         os.path.join(MODEL_DIR, "model.ckpt")
     )
-    extractor.process("/root/autodl-tmp/maestro_full_audio", "./processed/target_latents")
+    extractor.process("/root/autodl-tmp/maestro_full_audio", "/root/autodl-tmp/processed/target_latents")
