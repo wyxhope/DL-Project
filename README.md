@@ -1,3 +1,3 @@
 # DL-Project
 
-## Maybe Music Generation?
+## Condional Classical Piano Audio Generation via Latent Diffusion Models
